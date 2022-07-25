@@ -1,0 +1,11 @@
+C:\Users\eliah\source\repos\Task1_WinForms\Task1_WinForms\bin\Debug\Task1_WinForms.exe.config
+C:\Users\eliah\source\repos\Task1_WinForms\Task1_WinForms\bin\Debug\Task1_WinForms.exe
+C:\Users\eliah\source\repos\Task1_WinForms\Task1_WinForms\bin\Debug\Task1_WinForms.pdb
+C:\Users\eliah\source\repos\Task1_WinForms\Task1_WinForms\obj\Debug\Task1_WinForms.csproj.AssemblyReference.cache
+C:\Users\eliah\source\repos\Task1_WinForms\Task1_WinForms\obj\Debug\Task1_WinForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\eliah\source\repos\Task1_WinForms\Task1_WinForms\obj\Debug\Task1_WinForms.Form1.resources
+C:\Users\eliah\source\repos\Task1_WinForms\Task1_WinForms\obj\Debug\Task1_WinForms.Properties.Resources.resources
+C:\Users\eliah\source\repos\Task1_WinForms\Task1_WinForms\obj\Debug\Task1_WinForms.csproj.GenerateResource.cache
+C:\Users\eliah\source\repos\Task1_WinForms\Task1_WinForms\obj\Debug\Task1_WinForms.csproj.CoreCompileInputs.cache
+C:\Users\eliah\source\repos\Task1_WinForms\Task1_WinForms\obj\Debug\Task1_WinForms.exe
+C:\Users\eliah\source\repos\Task1_WinForms\Task1_WinForms\obj\Debug\Task1_WinForms.pdb
